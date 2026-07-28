@@ -1,0 +1,6 @@
+{
+  "name": "Pesona Pulau Batu Atas",
+  "description": "Website Resmi Wisata dan Eksplorasi Pulau Batu Atas dengan Galeri Khusus, Profil Pengelola Ihwal Pangalila, Kontak Lengkap, dan Dashboard CMS Imajinasif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
